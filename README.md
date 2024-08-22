@@ -14,13 +14,8 @@ To install the package, use npm:
 npm install saksh-car-reservation-system
 ```
 
-
-
-
-
- Here’s your code with GitHub-flavored Markdown formatting added for better readability:
-
-```markdown
+ 
+ 
 ## Function: `sakshConnect()`
 - **Description**: Connects to the MongoDB database using the provided URI.
 - **Usage**:
